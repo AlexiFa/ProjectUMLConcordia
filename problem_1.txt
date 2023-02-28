@@ -3,7 +3,13 @@
 ###	Problem 1	###
 
 Description :
-
+We choose an RATP TVM. It sells tockets for metro, bus, , tramway, train. The tickets are available in Paris depends on the zone chosen.
 
 Assumptions :
+- several zones availables (5)
+- posibility to chose an "all zone" tickets
+- price depends on the type of the ticket (metro, tram,...)
+- posibility to chose an "all transport" ticket
+- recharge card (card is for all zones) (we can do diffrent cards maybe)
+- tickets is usable until the user leave the metro
 - 
