@@ -3,7 +3,7 @@
 ###	Problem 1	###
 
 Description :
-We choose a Canadian Metro TVM, 
+
 
 Assumptions :
-- The user need to  
+- 
