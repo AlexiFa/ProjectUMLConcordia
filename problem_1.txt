@@ -6,15 +6,13 @@ Description :
 We choose an RATP TVM. It sells tockets for metro, bus, , tramway, train. The tickets are available in Paris depends on the zone chosen.
 
 Assumptions :
-- several zones availables (5)
-- posibility to chose an "all zone" tickets
-- price is the same for types of ticket (metro, tram ...)
-- posibility to chose an "all transport" ticket (maybe more expensive)
-- recharge card (card is for all zones) (we can do diffrent cards maybe)
-- tickets is usable until the user leave the metro (or 2h once used)
-- it accepts credit card and money
-- the price is diffrent depends on the destination (users need to validate to leave the stations so if he goes too far according to his ticket, 
-he will not be able to pass the doors)
-- user can chose the language of the TVM (French, English and maybe others)
-- audio description
+- several zones available (5)
+- "all zone" tickets
+- recharge card
+- tickets expire in 2h once used
+- accepts credit card and cash
+- price depends on the number of zone
+- user can choose the language of the TVM (French, English)
+- audio description available
 - stations with access to people with motricity issues are specified
+
